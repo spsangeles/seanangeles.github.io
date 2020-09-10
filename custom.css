@@ -1,0 +1,11 @@
+.bgself{
+	background-image: url("images/me2.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding: 200px 0px;
+	background-size: cover;
+	width: 100%;
+}
+#headersean {
+  transition: 1s; /* Add a transition effect (when scrolling - and font size is decreased) */
+}
