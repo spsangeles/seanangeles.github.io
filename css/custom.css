@@ -9,3 +9,9 @@
 #headersean {
   transition: 1s; /* Add a transition effect (when scrolling - and font size is decreased) */
 }
+.bgcontact{
+	background-image: url("../images/mecontact.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
